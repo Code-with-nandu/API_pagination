@@ -23,7 +23,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = '';
+// $config['base_url'] = '';
+// To configure your CodeIgniter project for both localhost and the live website
+	if ($_SERVER['HTTP_HOST'] == 'localhost') {
+    $config['base_url'] = 'http://localhost/1_api/pgination_CI/';
+} else {
+    $config['base_url'] = 'https://krishnendudalui.in.net/API_pagination/';
+}
+
+
+
 
 /*
 |--------------------------------------------------------------------------
