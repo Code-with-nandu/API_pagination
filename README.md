@@ -1,12 +1,6 @@
 ## Resources
 
-![Image 1](https://drive.google.com/uc?id=135ZuuDLjUlBbg1m6vC1kmg7zckt2qifW)  
-![Image 2](https://drive.google.com/uc?id=13HjvwqIUGd7KlmC1jAl5EMIe7UUAGJcS)  
-![Image 3](https://drive.google.com/uc?id=13BoGPQly92Fggc0_IBOCp1NFmYG_Gog1)  
-![Image 4](https://drive.google.com/uc?id=12srtjp4E8AjGrN-XTXFGA2_G-6JFBhow)  
-![Image 5](https://drive.google.com/uc?id=13K3qD0PquSMI-95X1w8l7yV0aeKOq1eh)  
-![Image 6](https://drive.google.com/uc?id=13Aj4BfiAKphs_cYmQ-nABldomG0jynby)  
-![Image 7](https://drive.google.com/uc?id=13KuDHaj7idKmSk1W6HMZb-I2a_xNwOkz)  
+ 
 
 
 
@@ -62,12 +56,18 @@ This project demonstrates the implementation of pagination in a REST API using C
     `http://localhost/1_api/pgination_CI/index.php/api/users`
   - Production:  
     `https://krishnendudalui.in.net/API_pagination/index.php/api/users`
+    ![Image 1](https://drive.google.com/uc?id=135ZuuDLjUlBbg1m6vC1kmg7zckt2qifW)  
+ 
 
 - **View a Single User:**
   - Localhost:  
     `http://localhost/1_api/pgination_CI/index.php/api/users/view`
   - Production:  
     `https://krishnendudalui.in.net/API_pagination/index.php/api/users/view`
+  
+![Image 2](https://drive.google.com/uc?id=13HjvwqIUGd7KlmC1jAl5EMIe7UUAGJcS)  
+![Image 3](https://drive.google.com/uc?id=13BoGPQly92Fggc0_IBOCp1NFmYG_Gog1)  
+
 
 - **Paginated User Retrieval via Postman:**
   - Example Request:
@@ -76,17 +76,22 @@ This project demonstrates the implementation of pagination in a REST API using C
     - Production:  
       `https://krishnendudalui.in.net/API_pagination/index.php/api/users?limit=4&page=2`
 
+    
+![Image 4](https://drive.google.com/uc?id=12srtjp4E8AjGrN-XTXFGA2_G-6JFBhow)  
+![Image 5](https://drive.google.com/uc?id=13K3qD0PquSMI-95X1w8l7yV0aeKOq1eh)  
+
+
 - **View User by ID:**
   - Localhost:  
     `http://localhost/1_api/pgination_CI/index.php/api/userbyid/1`
   - Production:  
     `https://krishnendudalui.in.net/API_pagination/index.php/api/userbyid/1`
 
-- **Delete Employee via API Consumer:**
-  - Localhost:  
-    `http://localhost/1_api/API_Consumer/delete_employee/13`
+  
+![Image 6](https://drive.google.com/uc?id=13Aj4BfiAKphs_cYmQ-nABldomG0jynby)  
+![Image 7](https://drive.google.com/uc?id=13KuDHaj7idKmSk1W6HMZb-I2a_xNwOkz) 
 
----
+
 
 ### Key Concepts for Pagination
 - **Limit:** Records per page  
