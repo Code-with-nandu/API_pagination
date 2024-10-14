@@ -1,3 +1,17 @@
+## Resources
+
+![Image 1](https://drive.google.com/uc?id=135ZuuDLjUlBbg1m6vC1kmg7zckt2qifW)  
+![Image 2](https://drive.google.com/uc?id=13HjvwqIUGd7KlmC1jAl5EMIe7UUAGJcS)  
+![Image 3](https://drive.google.com/uc?id=13BoGPQly92Fggc0_IBOCp1NFmYG_Gog1)  
+![Image 4](https://drive.google.com/uc?id=12srtjp4E8AjGrN-XTXFGA2_G-6JFBhow)  
+![Image 5](https://drive.google.com/uc?id=13K3qD0PquSMI-95X1w8l7yV0aeKOq1eh)  
+![Image 6](https://drive.google.com/uc?id=13Aj4BfiAKphs_cYmQ-nABldomG0jynby)  
+![Image 7](https://drive.google.com/uc?id=13KuDHaj7idKmSk1W6HMZb-I2a_xNwOkz)  
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Krishnendu Dalui</h1>
 <h3 align="center">A passionate frontend and backend PHP developer from India</h3>
 
