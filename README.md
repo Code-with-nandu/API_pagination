@@ -45,6 +45,32 @@
 ---
 
 ## Pagination Project in CodeIgniter 3
+### Step 1: Download Local host  project
+
+- 👨‍💻 Production:   Link [https://krishnendudalui.in.net/API_pagination/index.php/api/users/view](https://krishnendudalui.in.net/API_pagination/index.php/api/users/view)
+
+- 👨‍💻 Local host  Link [http://localhost/1_api/pgination_CI/index.php/api/users/](http://localhost/1_api/pgination_CI/index.php/api/users)
+
+
+
+### Step 2: Github Link
+
+- 👨‍💻  Github Link [https://github.com/Code-with-nandu/API_pagination](https://github.com/Code-with-nandu/API_pagination)
+
+
+
+### Step 3: Full note  Link
+
+- 👨‍💻  Full note  Link [https://docs.google.com/document/d/12VHRnH4sp3wFcYMTqHlC1SDge9BO0lnd/edit](https://docs.google.com/document/d/12VHRnH4sp3wFcYMTqHlC1SDge9BO0lnd/edit)
+
+
+
+### Step 4: Short note Link
+
+- 👨‍💻  Short note Link [https://docs.google.com/document/d/12myY9mUhz7GqkM43oG2PKkcOx3uSmWBp/edit](https://docs.google.com/document/d/12myY9mUhz7GqkM43oG2PKkcOx3uSmWBp/edit)
+
+
+
 
 ### Project Overview
 This project demonstrates the implementation of pagination in a REST API using CodeIgniter 3 as part of the "Art of Living" initiative.
